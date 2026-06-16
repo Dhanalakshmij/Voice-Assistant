@@ -1,4 +1,4 @@
-# Voice-Assistant
+## Voice Assistant 
 This is a simple voice assistant application built with Python. The assistant listens for voice commands, interprets them, and performs actions like searching YouTube or looking up information on Wikipedia.
 
 ## Features
